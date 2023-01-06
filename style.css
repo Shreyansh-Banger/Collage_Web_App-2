@@ -1,0 +1,65 @@
+#start-btn 
+{
+    width: 40%;
+}
+#camera
+{
+    width: 750px;
+    height: 500px;
+    border:5px dotted blue;
+}
+#logo_img
+{
+    width:150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.footer {
+    position: fixed;
+    bottom: 5;
+    width: 100%;
+    text-align: center;
+    background-color: orange;
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+img {
+    width: 50px;
+    border-radius: 15%;
+    padding: 5px;
+    border: 5px solid grey ;
+    box-shadow: 50px;
+}
+
+img:hover{
+    border-radius: 30%;
+}
+
+h1{
+    font-family: 'Tangerine', serif;
+    font-style:italic;
+    font-weight: 2;
+}
+h3
+{
+    color: blue;
+}
+
+h4{
+    color: red;
+}
+
+label{
+    color:green;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
